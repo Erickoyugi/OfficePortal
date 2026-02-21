@@ -1,0 +1,18 @@
+.img {
+    background-image: url('https://creditbank.co.ke/wp-content/uploads/2023/05/5-removebg-preview.webp') !important;
+}
+
+.ftco-section {
+    font-family: 'Poppins'; 
+ }
+ .form-control {
+    font-size: 12px !important;
+ }
+ .swal2-title {
+    font-family:'Poppins';
+    font-size: 12px !important;
+ }
+
+ .green  {
+   background: orange !important;
+ }
